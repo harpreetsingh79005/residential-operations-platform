@@ -68,7 +68,7 @@ The system is built using a relational database with the following core tables:
 
 The system is designed using an **Entity Relationship (ER) model** to define relationships between residents, flats, payments, and complaints.
 
-*(Add your ER diagram image here)*
+*(we are going to upload the er diagram soo its under construction)*
 
 ---
 
